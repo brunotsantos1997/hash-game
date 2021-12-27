@@ -1,1 +1,1 @@
-# app maked with react and typescript
+# app made with react and typescript
